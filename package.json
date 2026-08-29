@@ -1,0 +1,27 @@
+{
+  "name": "api-absensi-pegawai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizalfauzi-kjdev/restfull-absensi-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/azizalfauzi-kjdev/restfull-absensi-node/issues"
+  },
+  "homepage": "https://github.com/azizalfauzi-kjdev/restfull-absensi-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
